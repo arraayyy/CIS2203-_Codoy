@@ -14,9 +14,9 @@ void main() {
   print(deck.cardsWithSuits(suit!));
 
   // shuffle cards
-  print("\n\n\nAfter Shuffling:");
-  deck.shuffle();
-  deck.printCards();
+  // print("\n\n\nAfter Shuffling:");
+  // deck.shuffle();
+  // deck.printCards();
 }
 
 class Deck {
